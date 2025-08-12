@@ -1,4 +1,4 @@
-# Loo JSON Editor
+# Loo Json Editor
 
 ## Overview
 A Chrome extension designed specifically for developers, providing JSON editing and floating sticky note management functionality.
