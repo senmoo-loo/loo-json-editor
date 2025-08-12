@@ -1,9 +1,36 @@
-# 🔥 Loo JSON Editor: The Chrome Extension That Makes JSON Feel Like Magic
+# Loo JSON Editor
 
-## **Tired of JSON Hell? We Feel You, Bro.**
+## Overview
+A Chrome extension designed specifically for developers, providing JSON editing and floating sticky note management functionality.
 
-Picture this: You're deep in debugging mode, juggling 7 different API responses, your screen is cluttered with tabs, and that "simple" JSON structure is now a 500-line monster that makes your eyes bleed. Sound familiar? 😵‍💫
+## Core Features
 
-Enter **Loo JSON Editor** – the Chrome extension that's about to become your new best friend. This isn't just another pretty JSON formatter. This is the Swiss Army knife of JSON tools that actually gets what developers need.
+### JSON Editing
+- **Syntax Highlighting**: Professional JSON editor based on CodeMirror 6
+- **Real-time Validation**: Instant syntax error detection and prompts
+- **Formatting**: One-click JSON structure beautification
+- **Search & Replace**: Find and replace with regular expression support
 
-*[Image placeholder: Split-screen showing chaotic JSON workflow vs. clean Loo JSON Editor interface]*
+### Floating Sticky Notes
+- **Drag to Create**: Drag notes from sidebar to generate floating windows
+- **Multi-window Management**: Open multiple sticky notes simultaneously with real-time content sync
+- **Smart Layout**: Automatic window positioning to avoid overlaps
+
+## Tech Stack
+
+### Frontend
+- **React 18 + TypeScript**: Component-based development
+- **CodeMirror 6**: Professional code editor engine
+- **Vite**: Modern build tool
+- **Chrome Extension APIs**: Browser extension integration
+
+### Featured Technologies
+- **Drag System**: Complex drag interaction logic implementation
+- **Layout Algorithm**: Intelligent window position calculation
+- **State Management**: React Hooks + Chrome Storage
+- **Theme System**: Dynamic dark/light mode switching
+
+
+---
+
+Ideal for developers who frequently work with JSON data, improving JSON editing and management efficiency.
