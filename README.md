@@ -14,9 +14,9 @@ Loo JSON Editor is a chrome extension designed specifically for developers, prov
 - **💻Search & Replace**: Find and replace with regular expression support
 
 ### Floating Sticky Notes
-- **Drag to Create**: Drag notes from sidebar to generate floating windows
-- **Multi-window Management**: Open multiple sticky notes simultaneously with real-time content sync
-- **Smart Layout**: Automatic window positioning to avoid overlaps
+- **🛸Drag to Create**: Drag notes from sidebar to generate floating windows
+- **🛩️Multi-window Management**: Open multiple sticky notes simultaneously with real-time content sync
+- **🛶Smart Layout**: Automatic window positioning to avoid overlaps
 
 ## 🌅 Tech Stack
 
@@ -27,10 +27,10 @@ Loo JSON Editor is a chrome extension designed specifically for developers, prov
 - **🦅Chrome Extension APIs**: Browser extension integration
 
 ### Featured Technologies
-- **Drag System**: Complex drag interaction logic implementation
-- **Layout Algorithm**: Intelligent window position calculation
-- **State Management**: React Hooks + Chrome Storage
-- **Theme System**: Dynamic dark/light mode switching
+- **🚤Drag System**: Complex drag interaction logic implementation
+- **🛥️Layout Algorithm**: Intelligent window position calculation
+- **🚲State Management**: React Hooks + Chrome Storage
+- **🛹Theme System**: Dynamic dark/light mode switching
 
 
 ---
