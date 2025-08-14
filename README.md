@@ -1,15 +1,17 @@
 # Loo JSON Editor
 
 ## Overview
-A Chrome extension designed specifically for developers, providing JSON editing and floating sticky note management functionality.
+Loo JSON Editor is a chrome extension designed specifically for developers, providing JSON editing and floating sticky note management functionality.
 
-## Core Features
+![Loo JSON Editor screenshot](./docs/assets/screenshot-g2.png)
+
+## 🚀 Core Features
 
 ### JSON Editing
-- **Syntax Highlighting**: Professional JSON editor based on CodeMirror 6
-- **Real-time Validation**: Instant syntax error detection and prompts
-- **Formatting**: One-click JSON structure beautification
-- **Search & Replace**: Find and replace with regular expression support
+- **🎯Syntax Highlighting**: Professional JSON editor based on CodeMirror 6
+- **🧠Real-time Validation**: Instant syntax error detection and prompts
+- **🔧Formatting**: One-click JSON structure beautification
+- **💻Search & Replace**: Find and replace with regular expression support
 
 ### Floating Sticky Notes
 - **Drag to Create**: Drag notes from sidebar to generate floating windows
