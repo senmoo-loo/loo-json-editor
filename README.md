@@ -30,8 +30,7 @@ Loo JSON Editor is a chrome extension designed specifically for developers, prov
 - **🚤Drag System**: Complex drag interaction logic implementation
 - **🛥️Layout Algorithm**: Intelligent window position calculation
 - **🚲State Management**: React Hooks + Chrome Storage
-
-
 ---
 
 Ideal for developers who frequently work with JSON data, improving JSON editing and management efficiency.
+You can download the **Loo JSON Editor** extension via the [Chrome Web Store](https://chromewebstore.google.com/detail/loo-json-editor/gopcjgdjnnlakdbljfccnjemnbhbieim). Simply install it to start using all features.
